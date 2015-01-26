@@ -1,0 +1,15 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'BachelorArbeit.blg'
+[31] biber:277> INFO - === Mo Jan 12, 2015, 15:03:57
+[32] Biber.pm:333> INFO - Reading 'BachelorArbeit.bcf'
+[89] Biber.pm:635> INFO - Found 12 citekeys in bib section 0
+[110] Biber.pm:3051> INFO - Processing section 0
+[126] Biber.pm:3189> INFO - Looking for bibtex format file 'references.bib' for section 0
+[148] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[148] bibtex.pm:864> INFO - Found BibTeX data source 'references.bib'
+[266] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[266] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[266] Biber.pm:2928> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'de-DE'
+[266] Biber.pm:2932> INFO - No sort tailoring available for locale 'de-DE'
+[289] bbl.pm:517> INFO - Writing 'BachelorArbeit.bbl' with encoding 'UTF-8'
+[291] bbl.pm:606> INFO - Output to BachelorArbeit.bbl
