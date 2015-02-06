@@ -1,6 +1,6 @@
-VorlageBachelorArbeit
+Dr. Arbeit von Tomasz Fuchs
 =====================
 
-LaTeX Vorlage für eine Bachelorarbeit.
+Latex Project für die Doktorarbeit
 
 ausgelegt für die Verwendung von _lualatex_ und _biblatex_ mit _biber_.

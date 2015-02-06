@@ -1,0 +1,235 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nty}{nty}
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c41fe28d266fcc789622049d39b72c39}{Einstein}{E\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c41fe28d266fcc789622049d39b72c39}{Einstein}{E\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c41fe28d266fcc789622049d39b72c39}
+      \strng{fullhash}{c41fe28d266fcc789622049d39b72c39}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{A Generalization of the relativistic theory of Gravitation}
+      \field{journaltitle}{Annals of Mathematics}
+      \field{number}{4}
+      \field{title}{A Generalization of the relativistic theory of Gravitation}
+      \field{volume}{46}
+      \field{year}{1945}
+      \field{pages}{578\bibrangedash 584}
+    \endentry
+    \entry{l2tabu}{manual}{}
+      \name{labelname}{2}{}{%
+        {{hash=742d0716dcbb71e996d9bed8472b5eb7}{Ensenbach}{E\bibinitperiod}{Marc}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=adc740270dcb72e5cf4685c626f4845e}{Trettin}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=742d0716dcbb71e996d9bed8472b5eb7}{Ensenbach}{E\bibinitperiod}{Marc}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=adc740270dcb72e5cf4685c626f4845e}{Trettin}{T\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0667c5674e19e2953b31f08b8d9093d5}
+      \strng{fullhash}{0667c5674e19e2953b31f08b8d9093d5}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{Das LATEX2ε-Sündenregister}
+      \field{title}{Das LATEX2ε-Sündenregister}
+      \field{year}{2011}
+      \verb{url}
+      \verb ftp://ftp.mpi-sb.mpg.de/pub/tex/mirror/ftp.dante.de/pub/tex/info/l2tabu/german/l2tabu.pdf
+      \endverb
+    \endentry
+    \entry{gitbash}{online}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{Git Bash - Download}
+      \field{title}{Git Bash - Download}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://msysgit.github.io/
+      \endverb
+    \endentry
+    \entry{make}{online}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{Gnu-Make Homepage}
+      \field{title}{Gnu-Make Homepage}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://www.gnu.org/software/make/
+      \endverb
+    \endentry
+    \entry{harvey_jms_2003}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=e3bf47a6cc2988dd20754cc2e24adfd8}{Harvey}{H\bibinitperiod}{J.\bibnamedelimi A.\bibnamedelimi F.}{J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=2228b588c3d23cb27a6d31eda71095f8}{Cebon}{C\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=e3bf47a6cc2988dd20754cc2e24adfd8}{Harvey}{H\bibinitperiod}{J.\bibnamedelimi A.\bibnamedelimi F.}{J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=2228b588c3d23cb27a6d31eda71095f8}{Cebon}{C\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c575e437e951ff431be91d2e4c0caab1}
+      \strng{fullhash}{c575e437e951ff431be91d2e4c0caab1}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{Failure mechanisms in viscoelastic films}
+      \field{journaltitle}{Journal of Materials Science}
+      \field{number}{5}
+      \field{title}{Failure mechanisms in viscoelastic films}
+      \field{volume}{38}
+      \field{year}{2003}
+      \field{pages}{1021\bibrangedash 1032}
+    \endentry
+    \entry{koma}{manual}{}
+      \name{labelname}{2}{}{%
+        {{hash=ef6495d81d29fa9940e9d8ca208f831e}{Kohm}{K\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=22c900f39257902066bb7f71bb6a25df}{Morawski}{M\bibinitperiod}{Jens-Uwe}{J\bibinithyphendelim U\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=ef6495d81d29fa9940e9d8ca208f831e}{Kohm}{K\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=22c900f39257902066bb7f71bb6a25df}{Morawski}{M\bibinitperiod}{Jens-Uwe}{J\bibinithyphendelim U\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fdb1bb33f648df3a4e6c68803e9b8055}
+      \strng{fullhash}{fdb1bb33f648df3a4e6c68803e9b8055}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{KOMA -Script}
+      \field{subtitle}{ein wandelbares LaTeX-Paket}
+      \field{title}{KOMA -Script}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://mirror.selfnet.de/tex-archive/macros/latex/contrib/koma-script/doc/scrguide.pdf
+      \endverb
+    \endentry
+    \entry{kuypers}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ae5babec72340ac254380c60bbf6d783}{Kuypers}{K\bibinitperiod}{Friedhelm}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ae5babec72340ac254380c60bbf6d783}{Kuypers}{K\bibinitperiod}{Friedhelm}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-VCH}%
+      }
+      \strng{namehash}{ae5babec72340ac254380c60bbf6d783}
+      \strng{fullhash}{ae5babec72340ac254380c60bbf6d783}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{Klassische Mechanik}
+      \field{series}{9. Auflage}
+      \field{title}{Klassische Mechanik}
+      \field{year}{2010}
+    \endentry
+    \entry{biblatex}{manual}{}
+      \true{morelabelname}
+      \name{labelname}{1}{}{%
+        {{hash=97afecc8539f253db93a1c737d62212c}{Lehman}{L\bibinitperiod}{Philipp}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{1}{}{%
+        {{hash=97afecc8539f253db93a1c737d62212c}{Lehman}{L\bibinitperiod}{Philipp}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{34e4cbaf0989c9ce668a625f61e8360c}
+      \strng{fullhash}{34e4cbaf0989c9ce668a625f61e8360c}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{The Biblatex Package}
+      \field{subtitle}{Programmable Bibliographies and Citations}
+      \field{title}{The Biblatex Package}
+      \field{year}{2014}
+      \verb{url}
+      \verb ftp://ftp.fu-berlin.de/tex/CTAN/macros/latex/contrib/biblatex/doc/biblatex.pdf
+      \endverb
+    \endentry
+    \entry{pleser}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=110cf81489679804c894dc7154f86629}{Leser}{L\bibinitperiod}{Philipp}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=110cf81489679804c894dc7154f86629}{Leser}{L\bibinitperiod}{Philipp}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{110cf81489679804c894dc7154f86629}
+      \strng{fullhash}{110cf81489679804c894dc7154f86629}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{Modern Packages for LaTeX}
+      \field{title}{Modern Packages for LaTeX}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://philippleser.de/physics/latex
+      \endverb
+    \endentry
+    \entry{handbook_adhesives}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=40b61de11e75396dcb86f1c52f0339b1}{Satas}{S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=40b61de11e75396dcb86f1c52f0339b1}{Satas}{S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Van Nostrand Reinhold}%
+      }
+      \strng{namehash}{40b61de11e75396dcb86f1c52f0339b1}
+      \strng{fullhash}{40b61de11e75396dcb86f1c52f0339b1}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{Handbook of pressure sensitive adhesive technology}
+      \field{edition}{2nd}
+      \field{title}{Handbook of pressure sensitive adhesive technology}
+      \field{year}{1989}
+    \endentry
+    \entry{texmaker}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{Texmaker}
+      \field{subtitle}{The universal LaTeX editor, Downloads}
+      \field{title}{Texmaker}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://www.xm1math.net/texmaker/download.html
+      \endverb
+    \endentry
+    \entry{siunitx}{manual}{}
+      \name{labelname}{1}{}{%
+        {{hash=93c71fed62527d4c8c6ae13ee771fcdd}{Wright}{W\bibinitperiod}{Joseph}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=93c71fed62527d4c8c6ae13ee771fcdd}{Wright}{W\bibinitperiod}{Joseph}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{93c71fed62527d4c8c6ae13ee771fcdd}
+      \strng{fullhash}{93c71fed62527d4c8c6ae13ee771fcdd}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labeltitle}{siunitx - A comprehensive (SI) units package}
+      \field{title}{siunitx - A comprehensive (SI) units package}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://mirror.selfnet.de/tex-archive/macros/latex/contrib/siunitx/siunitx.pdf
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
