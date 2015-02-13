@@ -1,0 +1,25 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {german}
+\contentsline {chapter}{\numberline {1}Einleitung S.2}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Kosmische Strahlung}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Primäre kosmische Strahlung S.5}{2}{section.2.1}
+\contentsline {section}{\numberline {2.2}Sekundäre kosmische Strahlung S.2}{2}{section.2.2}
+\contentsline {section}{\numberline {2.3}Prompte Leptonen S.3-4}{2}{section.2.3}
+\contentsline {chapter}{\numberline {3}IceCube}{3}{chapter.3}
+\contentsline {section}{\numberline {3.1}Detektor S.3}{3}{section.3.1}
+\contentsline {section}{\numberline {3.2}Detektionsprinzip S.2}{4}{section.3.2}
+\contentsline {chapter}{\numberline {4}Signalklassifikation}{5}{chapter.4}
+\contentsline {section}{\numberline {4.1}MRMR S.2}{5}{section.4.1}
+\contentsline {section}{\numberline {4.2}Entscheidungsbaum S.3}{5}{section.4.2}
+\contentsline {section}{\numberline {4.3}Random Forest S.2}{6}{section.4.3}
+\contentsline {section}{\numberline {4.4}Kreuzvalidierung S.1}{6}{section.4.4}
+\contentsline {section}{\numberline {4.5}Qualitätsparameter S.2}{6}{section.4.5}
+\contentsline {chapter}{\numberline {5}Analyse der IceCube 2011 Daten S.20}{7}{chapter.5}
+\contentsline {section}{\numberline {5.1}Parameter S.2}{7}{section.5.1}
+\contentsline {section}{\numberline {5.2}Cuts S.2}{7}{section.5.2}
+\contentsline {section}{\numberline {5.3}Daten vs. MC S.4}{7}{section.5.3}
+\contentsline {chapter}{\numberline {6}Zusammenfassung S.2}{8}{chapter.6}
+\contentsline {chapter}{\numberline {7}Ausblick S.2}{9}{chapter.7}
+\contentsline {chapter}{\numberline {8}Danksagung}{10}{chapter.8}
+\contentsline {chapter}{\numberline {A}Ein Anhangskapitel}{11}{appendix.A}

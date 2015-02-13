@@ -1,0 +1,41 @@
+\tikzset{
+  BG_tikz/.style = {fill = TFuchs_DecisionTree_BG,label = center:\textsf{\Large U}},
+  Signal_tikz/.style = {fill = TFuchs_DecisionTree_Signal,label = center:\textsf{\Large S}}
+}
+\begin{figure}
+\begin{center}
+\begin{tikzpicture}[
+    ->,scale = 1.5, transform shape, thick,
+    every node/.style = {draw, circle, minimum size = 10mm},
+    grow = down,  % alignment of characters
+    level 1/.style = {sibling distance=4cm,level distance = 1.5cm},
+    level 2/.style = {sibling distance=5cm,level distance = 2.cm}, 
+    level 3/.style = {sibling distance=2cm,level distance = 2.cm}, 
+  ]
+  \node[fill = TU_Grun100, shape = rectangle, rounded corners,
+    minimum width = 4cm, font = \sffamily] {\large Event} 
+  child { node[shape = rectangle, rounded corners, line width = 1pt,fill=TFuchs_DecisionTree_Entscheidung,label=center:\textsf{Zenit},minimum height=8mm,minimum width = 20mm] (Start)
+          { {} }
+   child {   node [shape = rectangle, rounded corners, line width = 1pt,fill=TFuchs_DecisionTree_Entscheidung,label=center:\textsf{COGxy},minimum height=8mm,minimum width = 20mm] (A) {}
+     child { node [BG_tikz] (B) {}}
+     child { node [Signal_tikz] (C) {}}
+   }
+   child {   node [shape = rectangle, rounded corners, line width = 1pt,fill=TFuchs_DecisionTree_Entscheidung,label=center:\textsf{NDoms},minimum height=8mm,minimum width = 20mm] (D) {}
+     child { node [BG_tikz] (E) {}}
+     child { node [Signal_tikz] (F) {}}
+   }
+  };
+
+  % Labels
+  \begin{scope}[nodes = {draw = none}]
+    \path (Start) -- (A) node [midway, left]  {$\leq 60$°};
+    \path (A)     -- (B) node [midway, left]  {$\leq  \SI{200}{m}$};
+    \path (A)     -- (C) node [midway, right] {$>\SI{200}{m}$};
+    \path (Start) -- (D) node [midway, right] {$>60$°};
+    \path (D)     -- (E) node [midway, left]  {$\leq 50$};
+    \path (D)     -- (F) node [midway ,right] {$>50$};
+  \end{scope}
+\end{tikzpicture}
+\caption{Define the colors in the preamble of your document. (Reason: do so in the preamble, so that you can already refer to them in the preamble, which is useful, for instance, in an argument of another package that supports colors as arguments, such as t}
+\end{center}
+\end{figure}

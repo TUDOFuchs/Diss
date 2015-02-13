@@ -1,15 +1,9 @@
 [0] Config.pm:320> INFO - This is Biber 1.9
 [0] Config.pm:323> INFO - Logfile is 'Diss_TFuchs.blg'
-[30] biber:277> INFO - === Fr Feb  6, 2015, 14:29:30
-[30] Biber.pm:333> INFO - Reading 'Diss_TFuchs.bcf'
-[91] Biber.pm:635> INFO - Found 12 citekeys in bib section 0
-[110] Biber.pm:3051> INFO - Processing section 0
-[125] Biber.pm:3189> INFO - Looking for bibtex format file 'references.bib' for section 0
-[127] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[127] bibtex.pm:864> INFO - Found BibTeX data source 'references.bib'
-[236] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[236] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[236] Biber.pm:2928> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'de-DE'
-[236] Biber.pm:2932> INFO - No sort tailoring available for locale 'de-DE'
-[263] bbl.pm:517> INFO - Writing 'Diss_TFuchs.bbl' with encoding 'UTF-8'
-[265] bbl.pm:606> INFO - Output to Diss_TFuchs.bbl
+[28] biber:277> INFO - === Fr Feb 13, 2015, 16:14:21
+[28] Biber.pm:333> INFO - Reading 'Diss_TFuchs.bcf'
+[94] Biber.pm:635> INFO - Found 0 citekeys in bib section 0
+[94] Utils.pm:144> WARN - The file 'Diss_TFuchs.bcf' does not contain any citations!
+[114] bbl.pm:517> INFO - Writing 'Diss_TFuchs.bbl' with encoding 'UTF-8'
+[115] bbl.pm:606> INFO - Output to Diss_TFuchs.bbl
+[115] Biber.pm:106> INFO - WARNINGS: 1

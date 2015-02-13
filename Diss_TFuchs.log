@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.79.1 (TeX Live 2014) (rev 4971)  (format=lualatex 2015.1.10)  6 FEB 2015 14:29
+This is LuaTeX, Version beta-0.79.1 (TeX Live 2014) (rev 4971)  (format=lualatex 2015.1.10)  13 FEB 2015 16:14
  restricted \write18 enabled.
 **Diss_TFuchs.tex
 (./Diss_TFuchs.tex
@@ -382,7 +382,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.045 seconds
+luaotfload | main : fontloader loaded in 0.048 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -1810,6 +1810,361 @@ File: bkm-pdftex.def 2011/12/02 v1.24 bookmark driver for pdfTeX (HO)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/ncctools/extdash.sty
 Package: extdash 2005/01/29 v1.2 Extended Dash Package (NCC)
 ))
+(/usr/local/texlive/texmf-local/tex/UbuntuTexDir/latex/pgf/frontendlayer/tikz.s
+ty
+(/usr/local/texlive/texmf-local/tex/UbuntuTexDir/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/texmf-local/tex/UbuntuTexDir/latex/pgf/utilities/pgfrcs.sty
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen324
+\pgfutil@tempdimb=\dimen325
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box271
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2008/01/15 v3.0.0 (rcs-revision 1.12)
+
+(/usr/local/texlive/texmf-local/tex/UbuntuTexDir/latex/pgf/basiclayer/pgfcore.s
+ty
+(/usr/local/texlive/texmf-local/tex/UbuntuTexDir/latex/pgf/systemlayer/pgfsys.s
+ty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen326
+\pgf@y=\dimen327
+\pgf@xa=\dimen328
+\pgf@ya=\dimen329
+\pgf@xb=\dimen330
+\pgf@yb=\dimen331
+\pgf@xc=\dimen332
+\pgf@yc=\dimen333
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count470
+\c@pgf@countb=\count471
+\c@pgf@countc=\count472
+\c@pgf@countd=\count473
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count474
+\pgfsyssoftpath@bigbuffer@items=\count475
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen334
+\pgfmath@count=\count476
+\pgfmath@box=\box272
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count477
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen335
+\pgf@picmaxx=\dimen336
+\pgf@picminy=\dimen337
+\pgf@picmaxy=\dimen338
+\pgf@pathminx=\dimen339
+\pgf@pathmaxx=\dimen340
+\pgf@pathminy=\dimen341
+\pgf@pathmaxy=\dimen342
+\pgf@xx=\dimen343
+\pgf@xy=\dimen344
+\pgf@yx=\dimen345
+\pgf@yy=\dimen346
+\pgf@zx=\dimen347
+\pgf@zy=\dimen348
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen349
+\pgf@path@lasty=\dimen350
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen351
+\pgf@shorten@start@additional=\dimen352
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box273
+\pgf@hbox=\box274
+\pgf@layerbox@main=\box275
+\pgf@picture@serial@count=\count478
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen353
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen354
+\pgf@pt@y=\dimen355
+\pgf@pt@temp=\dimen356
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen357
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen358
+\pgf@sys@shading@range@num=\count479
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box276
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box277
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(/usr/local/texlive/texmf-local/tex/UbuntuTexDir/latex/pgf/compatibility/pgfcom
+p-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen359
+\pgf@nodesepend=\dimen360
+)
+(/usr/local/texlive/texmf-local/tex/UbuntuTexDir/latex/pgf/compatibility/pgfcom
+p-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+(/usr/local/texlive/texmf-local/tex/UbuntuTexDir/latex/pgf/utilities/pgffor.sty
+
+(/usr/local/texlive/texmf-local/tex/UbuntuTexDir/latex/pgf/utilities/pgfkeys.st
+y
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen361
+\pgffor@skip=\dimen362
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count480
+\pgfplotmarksize=\dimen363
+)
+\tikz@lastx=\dimen364
+\tikz@lasty=\dimen365
+\tikz@lastxsaved=\dimen366
+\tikz@lastysaved=\dimen367
+\tikzleveldistance=\dimen368
+\tikzsiblingdistance=\dimen369
+\tikz@figbox=\box278
+\tikz@figbox@bg=\box279
+\tikz@tempbox=\box280
+\tikz@tempbox@bg=\box281
+\tikztreelevel=\count481
+\tikznumberofchildren=\count482
+\tikznumberofcurrentchild=\count483
+\tikz@fig@count=\count484
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count485
+\pgfmatrixcurrentcolumn=\count486
+\pgf@matrix@numberofcolumns=\count487
+)
+\tikz@expandcount=\count488
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.0 (rcs-revision 1.9)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.0 (rcs-revision 1.1)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.0 (rcs-revision 1.5)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.0 (rcs-revision 1.6)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.0 (rcs-revision 1.1)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.callouts.code.tex
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.callouts.code.tex))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.0 (rcs-revision 1.2)
+\pgfnodepartlowerbox=\box282
+\pgfnodeparttwobox=\box283
+\pgfnodepartthreebox=\box284
+\pgfnodepartfourbox=\box285
+\pgfnodeparttwentybox=\box286
+\pgfnodepartnineteenbox=\box287
+\pgfnodeparteighteenbox=\box288
+\pgfnodepartseventeenbox=\box289
+\pgfnodepartsixteenbox=\box290
+\pgfnodepartfifteenbox=\box291
+\pgfnodepartfourteenbox=\box292
+\pgfnodepartthirteenbox=\box293
+\pgfnodeparttwelvebox=\box294
+\pgfnodepartelevenbox=\box295
+\pgfnodeparttenbox=\box296
+\pgfnodepartninebox=\box297
+\pgfnodeparteightbox=\box298
+\pgfnodepartsevenbox=\box299
+\pgfnodepartsixbox=\box300
+\pgfnodepartfivebox=\box301
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2013/07/18 v3.0.0 (rcs-revision 1.3)
+\pgf@layerbox@background=\box302
+\pgf@layerboxsaved@background=\box303
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
 
@@ -1826,47 +2181,47 @@ File: german.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
 (./Diss_TFuchs.aux
 luatex-hyphen: loading patterns and exceptions for: ngerman (\language31)
 luatex-hyphen: info: no hyphenation exceptions for this language)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for EU2/lmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 49.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for EU2/lmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 51.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 51.
 
 (/usr/local/texlive/texmf-local/tex/UbuntuTexDir/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count470
-\scratchdimen=\dimen324
-\scratchbox=\box271
-\nofMPsegments=\count471
-\nofMParguments=\count472
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count473
-\MPscratchDim=\dimen325
-\MPnumerator=\count474
-\makeMPintoPDFobject=\count475
-\everyMPtoPDFconversion=\toks31
+\scratchcounter=\count489
+\scratchdimen=\dimen370
+\scratchbox=\box304
+\nofMPsegments=\count490
+\nofMParguments=\count491
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count492
+\MPscratchDim=\dimen371
+\MPnumerator=\count493
+\makeMPintoPDFobject=\count494
+\everyMPtoPDFconversion=\toks43
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1882,7 +2237,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-LaTeX Info: Redefining \microtypecontext on input line 49.
+LaTeX Info: Redefining \microtypecontext on input line 51.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1922,10 +2277,10 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Diss_TFuchs.bbl' found.
  (./Diss_TFuchs.bbl)
-Package biblatex Info: Reference section=0 on input line 49.
-Package biblatex Info: Reference segment=0 on input line 49.
-\AtBeginShipoutBox=\box272
-Package hyperref Info: Link coloring OFF on input line 49.
+Package biblatex Info: Reference section=0 on input line 51.
+Package biblatex Info: Reference segment=0 on input line 51.
+\AtBeginShipoutBox=\box305
+Package hyperref Info: Link coloring OFF on input line 51.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1933,12 +2288,14 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count476
+\c@section@level=\count495
 )
-LaTeX Info: Redefining \ref on input line 49.
-LaTeX Info: Redefining \pageref on input line 49.
-LaTeX Info: Redefining \nameref on input line 49.
-\c__siunitx_mathsf_int=\count477
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
+
+ABD: EveryShipout initializing macros
+\c__siunitx_mathsf_int=\count496
 luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
 Package microtype Info: Loading generic settings for font family
 (microtype)             `LatinModernMath' (encoding: EU2).
@@ -1947,24 +2304,24 @@ Package microtype Info: Loading generic settings for font family
 luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
 luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
 LaTeX Font Info:    Font shape `EU2/LatinModernMath(1)/m/n' will be
-(Font)              scaled to size 10.95015pt on input line 49.
+(Font)              scaled to size 10.95015pt on input line 51.
 luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
 LaTeX Font Info:    Font shape `EU2/LatinModernMath(1)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 49.
+(Font)              scaled to size 8.00012pt on input line 51.
 luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
 LaTeX Font Info:    Font shape `EU2/LatinModernMath(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 49.
+(Font)              scaled to size 6.00009pt on input line 51.
 luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
 LaTeX Font Info:    Font shape `EU2/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 10.94983pt on input line 49.
+(Font)              scaled to size 10.94983pt on input line 51.
 luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
 LaTeX Font Info:    Font shape `EU2/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 49.
+(Font)              scaled to size 7.99988pt on input line 51.
 luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
 LaTeX Font Info:    Font shape `EU2/LatinModernMath(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 49.
+(Font)              scaled to size 5.99991pt on input line 51.
 luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
-LaTeX Font Info:    Try loading font information for U+msa on input line 49.
+LaTeX Font Info:    Try loading font information for U+msa on input line 51.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1972,7 +2329,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 49.
+LaTeX Font Info:    Try loading font information for U+msb on input line 51.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1980,9 +2337,192 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-\c__siunitx_mathtt_int=\count478
+\c__siunitx_mathtt_int=\count497
 
-<logos/tu-logo.pdf, id=4, 339.2675pt x 55.20625pt>
+<logos/tu-logo.pdf, id=7, 339.2675pt x 55.20625pt>
 File: logos/tu-logo.pdf Graphic file (type pdf)
  <use logos/tu-logo.pdf>
-Package pdftex.def Info: logos/tu-logo.pdf used on 
+Package pdftex.def Info: logos/tu-logo.pdf used on input line 55.
+(pdftex.def)             Requested size: 262.29283pt x 42.67912pt.
+(compiling luc: /usr/local/texlive/2014/texmf-var/luatex-cache/generic/fonts/otf
+/lmroman12-bold.luc)(load luc: /home/tfuchs/.texlive2014/texmf-var/luatex-cache/
+generic/fonts/otf/lmroman12-bold.luc)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmss' (encoding: EU2).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(compiling luc: /usr/local/texlive/2014/texmf-var/luatex-cache/generic/fonts/otf
+/lmsans10-bold.luc)(load luc: /home/tfuchs/.texlive2014/texmf-var/luatex-cache/g
+eneric/fonts/otf/lmsans10-bold.luc)
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(1)/m/n' will be
+(Font)              scaled to size 20.74031pt on input line 55.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(1)/m/n' will be
+(Font)              scaled to size 14.4002pt on input line 55.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(1)/m/n' will be
+(Font)              scaled to size 12.00018pt on input line 55.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 20.73969pt on input line 55.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 14.39977pt on input line 55.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 11.99982pt on input line 55.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"(com
+piling luc: /usr/local/texlive/2014/texmf-var/luatex-cache/generic/fonts/otf/lmr
+oman12-regular.luc)(load luc: /home/tfuchs/.texlive2014/texmf-var/luatex-cache/g
+eneric/fonts/otf/lmroman12-regular.luc)
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(1)/m/n' will be
+(Font)              scaled to size 10.00015pt on input line 55.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(1)/m/n' will be
+(Font)              scaled to size 7.0001pt on input line 55.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 9.99985pt on input line 55.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 6.9999pt on input line 55.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf" [1
+
+
+
+
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./logos/t
+u-logo.pdf>] [2
+
+] (./Inhalt/00_abstract.tex)
+[3]
+Package tocbasic Info: character protrusion at toc deactivated on input line 66.
+
+ (./Diss_TFuchs.toc)
+\tf@toc=\write5
+ [4
+
+] (./Inhalt/01_Einleitung.tex
+Kapitel 1.
+) (./Inhalt/02_CosmicRay.tex [1
+
+
+
+]
+Kapitel 2.
+) (./Inhalt/03_IceCube.tex [2
+
+]
+Kapitel 3.
+<./Plots/IceCube_NoLabels_cropped.jpg, id=94, 1389.19pt x 1887.05pt>
+File: ./Plots/IceCube_NoLabels_cropped.jpg Graphic file (type jpg)
+
+<use ./Plots/IceCube_NoLabels_cropped.jpg>
+Package pdftex.def Info: ./Plots/IceCube_NoLabels_cropped.jpg used on input line
+ 7.
+(pdftex.def)             Requested size: 276.04749pt x 374.98462pt.
+) (./Inhalt/04_RandomForest.tex
+[3
+
+<./Plots/IceCube_NoLabels_cropped.jpg>] [4]
+Kapitel 4.
+(./Inhalt/04_RandomForest_DecExample.tex(compiling luc: /usr/local/texlive/2014/
+texmf-var/luatex-cache/generic/fonts/otf/lmsans12-regular.luc)(load luc: /home/t
+fuchs/.texlive2014/texmf-var/luatex-cache/generic/fonts/otf/lmsans12-regular.luc
+)(compiling luc: /usr/local/texlive/2014/texmf-var/luatex-cache/generic/fonts/ot
+f/lmroman8-regular.luc)(load luc: /home/tfuchs/.texlive2014/texmf-var/luatex-cac
+he/generic/fonts/otf/lmroman8-regular.luc)
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"(com
+piling luc: /usr/local/texlive/2014/texmf-var/luatex-cache/generic/fonts/otf/lmr
+oman6-regular.luc)(load luc: /home/tfuchs/.texlive2014/texmf-var/luatex-cache/ge
+neric/fonts/otf/lmroman6-regular.luc))) (./Inhalt/05_Analyse.tex [5
+
+] [6]
+Kapitel 5.
+) (./Inhalt/06_Fazit.tex [7
+
+]
+Kapitel 6.
+[8
+
+]
+Kapitel 7.
+) (./Inhalt/07_Danksagung.tex [9
+
+]
+Kapitel 8.
+) (./Inhalt/a_anhang.tex [10
+
+]
+Anhang A.
+) [11
+
+]
+
+LaTeX Warning: Empty bibliography on input line 87.
+
+[12
+
+
+
+] (./Inhalt/eid_versicherung.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+) [13]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
+ (./Diss_TFuchs.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
+Package rerunfilecheck Info: File `Diss_TFuchs.aux' has not changed.
+(rerunfilecheck)             Checksum: 41D3FCF39BEE72E329A817AAE56E8879;11738.
+Package rerunfilecheck Info: File `Diss_TFuchs.toc' has not changed.
+(rerunfilecheck)             Checksum: 71320F9D8817EFF56308EDC5D80367D3;1831.
+Package logreq Info: Writing requests to 'Diss_TFuchs.run.xml'.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
+)
+
+Here is how much of LuaTeX's memory you used:
+ 53949 strings out of 494693
+ 100000,1648299 words of node,token memory allocated
+ 444 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 2 kern, 6 attribute, 58 glue_spec, 6 attrib
+ute_list, 1 write nodes
+   avail lists: 1:49,2:4582,3:459,4:526,5:130,6:1478,7:29,8:25,9:513,10:985,11:5
+20,12:230
+ 55929 multiletter control sequences out of 65536+600000
+ 94 fonts using 26160951 bytes
+ 70i,14n,104p,963b,1603s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.ot
+f></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm-math/latinmodern-
+math.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm/lmsans10-r
+egular.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm/lmsans12
+-regular.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm/lmroma
+nslant10-regular.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/l
+m/lmroman10-bold.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/l
+m/lmroman10-italic.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public
+/lm/lmroman10-regular.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/pub
+lic/lm/lmroman12-regular.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/
+public/lm/lmsans10-bold.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/p
+ublic/lm/lmroman12-bold.otf>
+Output written on Diss_TFuchs.pdf (17 pages, 1273753 bytes).
+
+PDF statistics: 292 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 47 named destinations out of 1000 (max. 131072)
+ 192 words of extra memory for PDF output out of 10000 (max. 10000000)
+
