@@ -1,9 +1,9 @@
 [0] Config.pm:320> INFO - This is Biber 1.9
 [0] Config.pm:323> INFO - Logfile is 'Diss_TFuchs.blg'
-[28] biber:277> INFO - === Fr Feb 13, 2015, 16:14:21
-[28] Biber.pm:333> INFO - Reading 'Diss_TFuchs.bcf'
-[94] Biber.pm:635> INFO - Found 0 citekeys in bib section 0
-[94] Utils.pm:144> WARN - The file 'Diss_TFuchs.bcf' does not contain any citations!
-[114] bbl.pm:517> INFO - Writing 'Diss_TFuchs.bbl' with encoding 'UTF-8'
-[115] bbl.pm:606> INFO - Output to Diss_TFuchs.bbl
-[115] Biber.pm:106> INFO - WARNINGS: 1
+[25] biber:277> INFO - === So MÃ¤r 29, 2015, 14:43:29
+[25] Biber.pm:333> INFO - Reading 'Diss_TFuchs.bcf'
+[79] Biber.pm:635> INFO - Found 0 citekeys in bib section 0
+[80] Utils.pm:144> WARN - The file 'Diss_TFuchs.bcf' does not contain any citations!
+[97] bbl.pm:517> INFO - Writing 'Diss_TFuchs.bbl' with encoding 'UTF-8'
+[98] bbl.pm:606> INFO - Output to Diss_TFuchs.bbl
+[98] Biber.pm:106> INFO - WARNINGS: 1

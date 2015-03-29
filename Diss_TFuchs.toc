@@ -12,14 +12,18 @@
 \contentsline {chapter}{\numberline {4}Signalklassifikation}{5}{chapter.4}
 \contentsline {section}{\numberline {4.1}MRMR S.2}{5}{section.4.1}
 \contentsline {section}{\numberline {4.2}Entscheidungsbaum S.3}{5}{section.4.2}
-\contentsline {section}{\numberline {4.3}Random Forest S.2}{6}{section.4.3}
-\contentsline {section}{\numberline {4.4}Kreuzvalidierung S.1}{6}{section.4.4}
-\contentsline {section}{\numberline {4.5}Qualitätsparameter S.2}{6}{section.4.5}
+\contentsline {section}{\numberline {4.3}Random Forest S.2}{5}{section.4.3}
+\contentsline {section}{\numberline {4.4}Kreuzvalidierung S.1}{5}{section.4.4}
+\contentsline {section}{\numberline {4.5}Qualitätsparameter S.2}{5}{section.4.5}
 \contentsline {chapter}{\numberline {5}Analyse der IceCube 2011 Daten S.20}{7}{chapter.5}
-\contentsline {section}{\numberline {5.1}Parameter S.2}{7}{section.5.1}
-\contentsline {section}{\numberline {5.2}Cuts S.2}{7}{section.5.2}
-\contentsline {section}{\numberline {5.3}Daten vs. MC S.4}{7}{section.5.3}
-\contentsline {chapter}{\numberline {6}Zusammenfassung S.2}{8}{chapter.6}
-\contentsline {chapter}{\numberline {7}Ausblick S.2}{9}{chapter.7}
-\contentsline {chapter}{\numberline {8}Danksagung}{10}{chapter.8}
-\contentsline {chapter}{\numberline {A}Ein Anhangskapitel}{11}{appendix.A}
+\contentsline {section}{\numberline {5.1}Ereignis Eigenschaften}{7}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Myon Bündel}{8}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Hochenergetische Myonen}{8}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Balloon Ereignisse}{8}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.2}Parameter S.2}{8}{section.5.2}
+\contentsline {section}{\numberline {5.3}Cuts S.2}{8}{section.5.3}
+\contentsline {section}{\numberline {5.4}Daten vs. MC S.4}{8}{section.5.4}
+\contentsline {chapter}{\numberline {6}Zusammenfassung S.2}{10}{chapter.6}
+\contentsline {chapter}{\numberline {7}Ausblick S.2}{11}{chapter.7}
+\contentsline {chapter}{\numberline {8}Danksagung}{12}{chapter.8}
+\contentsline {chapter}{\numberline {A}Ein Anhangskapitel}{13}{appendix.A}

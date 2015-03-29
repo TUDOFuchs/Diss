@@ -1,6 +1,24 @@
 \thispagestyle{plain}
 \chapter{Signalklassifikation}
 \section{MRMR S.2}
+\begin{align}
+I(x,y) = \int \int p(x,y) \log\left(\frac{p(x,y)}{p(x)p(y)}\right) \text{d}x\,\text{d}y
+\end{align}
+Nehmen die Attribute $x$ und $y$ diskrete Werte an, so kann die Transinformation mit Hilfe von einfacher Summation berechnet werden.
+
+Bei einer Klassifikation ist meist die Korrelation eines Attributes zu den Klassen $c$ relevant.
+\begin{align}
+D(S,c) &= \frac{1}{|S|} \sum_{x \in S} I(x,c) \\
+R(S) &= \frac{1}{|S|^2} \sum_{x,y \in S} I(x,y) \\
+\Phi(D,R)&= D-R
+\end{align}
+
+\begin{align}
+\max_{y \notin S_{m-1}} \left( I(y,c) - \frac{1}{m-1} \sum_{x \in S_{m-1}} I(x,y) \right)
+\end{align}
+
+Für kontinuierliche Variablen Kerndichte schätzen 
+%http://www.jstor.org/discover/10.2307/2335270?sid=21106279864473&uid=2129&uid=2&uid=4&uid=70
 \section{Entscheidungsbaum S.3}
 \input{./Inhalt/04_RandomForest_DecExample.tex}
 \section{Random Forest S.2}

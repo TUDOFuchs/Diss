@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.79.1 (TeX Live 2014) (rev 4971)  (format=lualatex 2015.1.10)  13 FEB 2015 16:14
+This is LuaTeX, Version beta-0.79.1 (TeX Live 2014) (rev 4971)  (format=lualatex 2015.1.10)  29 MAR 2015 14:43
  restricted \write18 enabled.
 **Diss_TFuchs.tex
 (./Diss_TFuchs.tex
@@ -382,7 +382,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.048 seconds
+luaotfload | main : fontloader loaded in 0.044 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -2180,7 +2180,14 @@ File: german.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
 )
 (./Diss_TFuchs.aux
 luatex-hyphen: loading patterns and exceptions for: ngerman (\language31)
-luatex-hyphen: info: no hyphenation exceptions for this language)
+luatex-hyphen: info: no hyphenation exceptions for this language
+
+LaTeX Warning: Label `fig:sfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sfig2' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
@@ -2197,8 +2204,7 @@ LaTeX Font Info:    Checking defaults for EU2/lmr/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 51.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 51.
-
-(/usr/local/texlive/texmf-local/tex/UbuntuTexDir/latex/tipa/t3cmr.fd
+ (/usr/local/texlive/texmf-local/tex/UbuntuTexDir/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 51.
@@ -2419,7 +2425,7 @@ Kapitel 2.
 
 ]
 Kapitel 3.
-<./Plots/IceCube_NoLabels_cropped.jpg, id=94, 1389.19pt x 1887.05pt>
+<./Plots/IceCube_NoLabels_cropped.jpg, id=96, 1389.19pt x 1887.05pt>
 File: ./Plots/IceCube_NoLabels_cropped.jpg Graphic file (type jpg)
 
 <use ./Plots/IceCube_NoLabels_cropped.jpg>
@@ -2431,44 +2437,98 @@ Package pdftex.def Info: ./Plots/IceCube_NoLabels_cropped.jpg used on input line
 
 <./Plots/IceCube_NoLabels_cropped.jpg>] [4]
 Kapitel 4.
-(./Inhalt/04_RandomForest_DecExample.tex(compiling luc: /usr/local/texlive/2014/
-texmf-var/luatex-cache/generic/fonts/otf/lmsans12-regular.luc)(load luc: /home/t
-fuchs/.texlive2014/texmf-var/luatex-cache/generic/fonts/otf/lmsans12-regular.luc
-)(compiling luc: /usr/local/texlive/2014/texmf-var/luatex-cache/generic/fonts/ot
-f/lmroman8-regular.luc)(load luc: /home/tfuchs/.texlive2014/texmf-var/luatex-cac
-he/generic/fonts/otf/lmroman8-regular.luc)
+(compiling luc: /usr/local/texlive/2014/texmf-var/luatex-cache/generic/fonts/otf
+/lmroman8-regular.luc)(load luc: /home/tfuchs/.texlive2014/texmf-var/luatex-cach
+e/generic/fonts/otf/lmroman8-regular.luc)(compiling luc: /usr/local/texlive/2014
+/texmf-var/luatex-cache/generic/fonts/otf/lmroman6-regular.luc)(load luc: /home/
+tfuchs/.texlive2014/texmf-var/luatex-cache/generic/fonts/otf/lmroman6-regular.lu
+c) (./Inhalt/04_RandomForest_DecExample.tex(compiling luc: /usr/local/texlive/20
+14/texmf-var/luatex-cache/generic/fonts/otf/lmsans12-regular.luc)(load luc: /hom
+e/tfuchs/.texlive2014/texmf-var/luatex-cache/generic/fonts/otf/lmsans12-regular.
+luc)
 luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
 luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
-luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"(com
-piling luc: /usr/local/texlive/2014/texmf-var/luatex-cache/generic/fonts/otf/lmr
-oman6-regular.luc)(load luc: /home/tfuchs/.texlive2014/texmf-var/luatex-cache/ge
-neric/fonts/otf/lmroman6-regular.luc))) (./Inhalt/05_Analyse.tex [5
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf")) 
+(./Inhalt/05_Analyse.tex [5
 
 ] [6]
 Kapitel 5.
-) (./Inhalt/06_Fazit.tex [7
+<./Plots/Bundle.png, id=127, 770.88pt x 578.16pt>
+File: ./Plots/Bundle.png Graphic file (type png)
+ <use ./Plots/Bundle.png>
+Package pdftex.def Info: ./Plots/Bundle.png used on input line 7.
+(pdftex.def)             Requested size: 130.13795pt x 97.59778pt.
 
-]
+<./Plots/Leading.png, id=128, 770.88pt x 578.16pt>
+File: ./Plots/Leading.png Graphic file (type png)
+ <use ./Plots/Leading.png>
+Package pdftex.def Info: ./Plots/Leading.png used on input line 13.
+(pdftex.def)             Requested size: 130.13795pt x 97.59778pt.
+
+<./Plots/Balloon.png, id=129, 770.88pt x 578.16pt>
+File: ./Plots/Balloon.png Graphic file (type png)
+ <use ./Plots/Balloon.png>
+Package pdftex.def Info: ./Plots/Balloon.png used on input line 19.
+(pdftex.def)             Requested size: 130.13795pt x 97.59778pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+[][]\EU2/lmr/m/n/10.95 track_hits_dis-tri-bu-ti-on_smooth-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+<./Plots/dummy.png, id=130, 501.875pt x 362.35374pt>
+File: ./Plots/dummy.png Graphic file (type png)
+ <use ./Plots/dummy.png>
+Package pdftex.def Info: ./Plots/dummy.png used on input line 56.
+(pdftex.def)             Requested size: 197.17763pt x 142.36238pt.
+
+Overfull \hbox (78.86986pt too wide) in paragraph at lines 57--57
+[][] [] 
+ []
+
+
+Overfull \hbox (2.43088pt too wide) in paragraph at lines 40--61
+[][]$[]$ $[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7
+
+<./Plots/Bundle.png><./Plots/Leading.png><./Plots/Balloon.png>]
+Overfull \hbox (63.26472pt too wide) in paragraph at lines 65--90
+ [][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./Inhalt/06_Fazit.tex [8<./Plots/dummy.png>] [9]
 Kapitel 6.
-[8
+[10
 
 ]
 Kapitel 7.
-) (./Inhalt/07_Danksagung.tex [9
+) (./Inhalt/07_Danksagung.tex [11
 
 ]
 Kapitel 8.
-) (./Inhalt/a_anhang.tex [10
+) (./Inhalt/a_anhang.tex [12
 
 ]
 Anhang A.
-) [11
+) [13
 
 ]
 
 LaTeX Warning: Empty bibliography on input line 87.
 
-[12
+[14
 
 
 
@@ -2482,47 +2542,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--29
 
  []
 
-) [13]
+) [15]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
  (./Diss_TFuchs.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
 Package rerunfilecheck Info: File `Diss_TFuchs.aux' has not changed.
-(rerunfilecheck)             Checksum: 41D3FCF39BEE72E329A817AAE56E8879;11738.
+(rerunfilecheck)             Checksum: DD707CFFDD531A26FF0819C28A10ECB7;13669.
 Package rerunfilecheck Info: File `Diss_TFuchs.toc' has not changed.
-(rerunfilecheck)             Checksum: 71320F9D8817EFF56308EDC5D80367D3;1831.
+(rerunfilecheck)             Checksum: 4F268897EF5FB5FFE4D8777098518B06;2174.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package logreq Info: Writing requests to 'Diss_TFuchs.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
 )
 
 Here is how much of LuaTeX's memory you used:
- 53949 strings out of 494693
+ 53995 strings out of 494693
  100000,1648299 words of node,token memory allocated
- 444 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 2 kern, 6 attribute, 58 glue_spec, 6 attrib
+ 482 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 2 glue, 2 kern, 7 attribute, 58 glue_spec, 7 attrib
 ute_list, 1 write nodes
-   avail lists: 1:49,2:4582,3:459,4:526,5:130,6:1478,7:29,8:25,9:513,10:985,11:5
+   avail lists: 1:49,2:4582,3:499,4:758,5:131,6:1478,7:82,8:26,9:512,10:985,11:5
 20,12:230
- 55929 multiletter control sequences out of 65536+600000
+ 55961 multiletter control sequences out of 65536+600000
  94 fonts using 26160951 bytes
  70i,14n,104p,963b,1603s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.ot
-f></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm-math/latinmodern-
-math.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm/lmsans10-r
-egular.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm/lmsans12
--regular.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm/lmroma
-nslant10-regular.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/l
-m/lmroman10-bold.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/l
-m/lmroman10-italic.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public
-/lm/lmroman10-regular.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/pub
-lic/lm/lmroman12-regular.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/
-public/lm/lmsans10-bold.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/p
-ublic/lm/lmroman12-bold.otf>
-Output written on Diss_TFuchs.pdf (17 pages, 1273753 bytes).
+f></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm/lmsans10-regular.
+otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm/lmsans12-regula
+r.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm-math/latinmod
+ern-math.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm-math/l
+atinmodern-math.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/public/lm
+-math/latinmodern-math.otf></usr/local/texlive/2014/texmf-dist/fonts/opentype/pu
+blic/lm/lmromanslant10-regular.otf></usr/local/texlive/2014/texmf-dist/fonts/ope
+ntype/public/lm/lmroman10-bold.otf></usr/local/texlive/2014/texmf-dist/fonts/ope
+ntype/public/lm/lmroman10-italic.otf></usr/local/texlive/2014/texmf-dist/fonts/o
+pentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2014/texmf-dist/font
+s/opentype/public/lm/lmroman12-regular.otf></usr/local/texlive/2014/texmf-dist/f
+onts/opentype/public/lm/lmsans10-bold.otf></usr/local/texlive/2014/texmf-dist/fo
+nts/opentype/public/lm/lmroman12-bold.otf>
+Output written on Diss_TFuchs.pdf (19 pages, 2464161 bytes).
 
-PDF statistics: 292 PDF objects out of 1000 (max. 8388607)
- 235 compressed objects within 3 object streams
- 47 named destinations out of 1000 (max. 131072)
- 192 words of extra memory for PDF output out of 10000 (max. 10000000)
+PDF statistics: 335 PDF objects out of 1000 (max. 8388607)
+ 265 compressed objects within 3 object streams
+ 61 named destinations out of 1000 (max. 131072)
+ 200 words of extra memory for PDF output out of 10000 (max. 10000000)
 
